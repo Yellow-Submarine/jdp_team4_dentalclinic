@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
+#include <string.h>
 /*계정의 정보를 저장하는 구조체*/
 typedef struct
 {
